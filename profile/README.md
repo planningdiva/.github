@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Planning Diva Co**
+## **Planning Diva Co**
 
 Coming soon...
-
--->
